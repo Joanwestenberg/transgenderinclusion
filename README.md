@@ -16,7 +16,7 @@ This piece started out as a policy for transgender inclusion. I drew from a rang
 
 If you’re committed to making your own company a safe place for transgender and non-binary people, feel free to copy and use this piece as your first inclusion policy. And trust me — even just having it in place would make a measurable difference to free your staff feels to be themselves. 
 
-[Who We Are: A Transgender Primer](./transgenderprimer.md)
+[Who We Are: A Transgender Primer](./transgenderprimer)
 
 
 
