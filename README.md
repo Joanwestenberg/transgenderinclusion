@@ -1,4 +1,4 @@
-How to make your tech company a safe home for transgender people: an Open Source Guideline
+# How to make your tech company a safe home for transgender people: an Open Source Guideline
 
 
 “Everyone should be treated with dignity and respect. That’s the way I look at everyone, regardless of their sexual orientation, regardless of their religion, their gender, their ethnic history, regardless of their gender identity.”
