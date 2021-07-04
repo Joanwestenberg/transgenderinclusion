@@ -1,14 +1,8 @@
-![](RackMultipart20210704-4-1vsse05_html_c90c542b57925899.png) ![](RackMultipart20210704-4-1vsse05_html_b6a46e520143d9ed.png)
-
 # How to make your tech company a safe home for transgender people: **an Open Source Guideline**
-
-![](RackMultipart20210704-4-1vsse05_html_cb55ddb5edd60516.gif)
 
 &quot;_Everyone should be treated with dignity and respect. That&#39;s the way I look at everyone, regardless of their sexual orientation, regardless of their religion, their gender, their ethnic history, regardless of their gender identity.&quot;_
 
 - **Tim Cook | CEO, Apple**
-
-![](RackMultipart20210704-4-1vsse05_html_cb55ddb5edd60516.gif)
 
 For many people in tech, I am the first transgender woman they&#39;ve ever met. I&#39;m the first transgender person they&#39;ve met full stop, and they&#39;re often thrown by how to respond.
 
@@ -23,8 +17,6 @@ This piece started out as a policy for transgender inclusion. I drew from a rang
 If you&#39;re committed to making your own company a safe place for transgender and non-binary people, feel free to copy and use this piece as your first inclusion policy. And trust me — even just having it in place would make a measurable difference to free your staff feels to be themselves.
 
 ## **Who We Are: A Transgender Primer**
-
-![](RackMultipart20210704-4-1vsse05_html_cb55ddb5edd60516.gif)
 
 &quot;_ **Transgender** _ _is a term used to describe people whose gender identity differs from the sex they were assigned at birth._ _ **Gender identity** _ _is a person&#39;s internal, personal sense of being a man or a woman (or boy or girl.) For some people, their gender identity does not fit neatly into those two choices. For transgender people, the sex they were assigned at birth and their own internal gender identity do not match._
 
@@ -44,16 +36,12 @@ _Like everyone else, transgender people have a sexual orientation. Transgender p
 
 ## **Definitions**
 
-![](RackMultipart20210704-4-1vsse05_html_cb55ddb5edd60516.gif)
-
 I wanted to talk about definitions for a moment. Some of the terms I use, and some of the terms that you&#39;ll hear more and more if you look into transgender rights and gender diversity might not be terms whose meaning you&#39;ve examined on a deeper level, or in this context — it&#39;s useful to question and relearn some of them!
 
 - Affirmed gender: is the gender that an individual has identified with that is different to their ascribed gender group at birth.
 - Sex: refers to standard biological descriptors
 - Transitioning: refers to the process where a transgender person commences living permanently as a member of another gender group.
 - Transgender (Trans): refers to a person whose gender identity is different from that ascribed to them in the past, typically at birth, including non-binary people who live or identify without an ascribed gender.
-
-![](RackMultipart20210704-4-1vsse05_html_cb55ddb5edd60516.gif)
 
 ## **The Policy**
 
@@ -62,19 +50,11 @@ I wanted to talk about definitions for a moment. Some of the terms I use, and so
 1. We commit to making our workplace a safe place for transgender and non-binary people to work and to live as their authentic selves, without judgement, without discrimination and without limits. We understand that employment and workplace safety and security are major challenges to transgender and non-binary people as they begin their journeys and live publicly post-transition, and we believe in supporting them as co-workers, employees and people.
 2. We reject any notion that transgender people are a burden on our team, or that transgender people should limit their existence for others&#39; comfort. Being transgender doesn&#39;t make anyone any less of a &quot;culture fit&quot; - but rejecting transgender people does. We understand that popular arguments against transgender inclusion and transgender rights are often predicated on the idea that transgender people are a burden to others and that burden is going to hold back productivity and achievement. We refuse to accept that idea, and instead will recognise transgender and non-binary people as assets, not liabilities.
 
-![](RackMultipart20210704-4-1vsse05_html_cb55ddb5edd60516.gif)
-
 ## **We Are All Responsible**
-
-![](RackMultipart20210704-4-1vsse05_html_cb55ddb5edd60516.gif)
 
 Remember this. All investors, staff, contractors, agents, official visitors, and other individuals performing services/work for and on behalf of our organisation are responsible for transgender inclusion. Trans policy also applies to staff behaviour towards external people. Everyone at every level is responsible for including, supporting and accepting transgender and non-binary people.
 
-![](RackMultipart20210704-4-1vsse05_html_cb55ddb5edd60516.gif)
-
 ## **Recognise Transgender Rights**
-
-![](RackMultipart20210704-4-1vsse05_html_cb55ddb5edd60516.gif)
 
 All staff, contractors, agents, official visitors, and other individuals performing services/work for and on behalf of our organisation have a right to be treated equally.
 
@@ -100,10 +80,7 @@ We expect all staff:
 - to respect the privacy and confidentiality of transgender (trans) and non-binary people;
 - to raise a complaint when they believe they have witnessed/experienced unacceptable behaviour
 
-![](RackMultipart20210704-4-1vsse05_html_cb55ddb5edd60516.gif)
-
 ## **Basic Rules**
- ![](RackMultipart20210704-4-1vsse05_html_cb55ddb5edd60516.gif)
 
 **Workplace Behaviour**
 
@@ -155,10 +132,6 @@ A trans person is permitted to dress consistently with their affirmed gender ide
 
 All job advertisements will afford equal employment opportunities to trans people. Transgender candidates will not be viewed differently from any other candidates. Job descriptions will openly state their support of gender diverse applicants.
 
-![](RackMultipart20210704-4-1vsse05_html_cb55ddb5edd60516.gif)
-
 The fact is, transgender and non-binary people are an amazing asset to your startup. We bring creativity, empathy, empowerment, confidence and understanding that can help everyone to be their true selves, demonstrate courage, and stand up proudly every single day. That&#39;s why I want to encourage you to examine your workplace, and take the necessary steps to adopt this policy and make the world a little safer for transgender people.
 
 **When you put in the time to make your home a home for everyone, it becomes more welcoming, it becomes more kind, and it becomes more authentic. I think that&#39;s a remarkably beautiful thing, and I want to see it happen more and more.**
-
-![](RackMultipart20210704-4-1vsse05_html_9c4d125148e52695.png)
